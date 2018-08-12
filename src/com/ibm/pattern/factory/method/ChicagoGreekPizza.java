@@ -1,4 +1,4 @@
-package com.ibm.pattern.factory.simple;
+package com.ibm.pattern.factory.method;
 
 import com.ibm.pattern.factory.common.Pizza;
 

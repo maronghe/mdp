@@ -11,7 +11,6 @@ public class PizzaMethodFactoryTest {
 
     public static void main(String[] args) {
 
-
         //创建纽约工厂
         NewYorkPizzaFactory newYorkPizzaFactory = new NewYorkPizzaFactory();
         //创建纽约披萨
@@ -20,7 +19,7 @@ public class PizzaMethodFactoryTest {
         //创建芝加哥工厂
         ChicagoPizzaFactory chicagoPizzafactory = new ChicagoPizzaFactory();
         //创建芝加哥披萨
-        Pizza chicagoPizza = new PizzaStore(chicagoPizzafactory).orderPizza("cheese");
+        Pizza chicagoPizza = new PizzaStore(chicagoPizzafactory).orderPizza("greek");
 
     }
 }

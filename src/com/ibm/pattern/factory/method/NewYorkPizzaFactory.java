@@ -13,9 +13,9 @@ public class NewYorkPizzaFactory extends  SimplePizzaFactory{
     public Pizza createPizza(String type){
         Pizza pizza = null;
         if("cheese".equals(type)){
-            pizza = new CheesePizza();
+            pizza = new NewYorkCheesePizza();
         }else if ("greek".equals(type)){
-            pizza = new GreekPizza();
+            pizza = new NewYorkGreekPizza();
         }
         return pizza;
     }

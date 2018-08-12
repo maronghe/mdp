@@ -1,8 +1,6 @@
 package com.ibm.pattern.factory.method;
 
 import com.ibm.pattern.factory.common.Pizza;
-import com.ibm.pattern.factory.simple.ChicagoCheesePizza;
-import com.ibm.pattern.factory.simple.ChicagoGreekPizza;
 
 /**
  * 芝加哥披萨工厂
