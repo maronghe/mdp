@@ -7,7 +7,7 @@
 -行为型模式 ：其注重代码的执行时候的行为关系。
  
  总体分为以下23种：
---创建型模式：
+-创建型模式：
 简单工厂模式（Simple Factory，其不属于GoF总结的23种之一） 
 工厂方法模式（Factory Method）
 抽象工厂模式（Abstract Factory）
