@@ -36,4 +36,6 @@
 备忘录模式（Memento）
 迭代器模式（Iterator）
 解释器模式（Interpreter）
+
+
 接下来会陆续更新所有设计模式Demo及应用场景和优缺点。
